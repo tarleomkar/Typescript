@@ -66,4 +66,4 @@ console.log(num + 10); // Output: 52
 // Assignability   Can't be assigned to other types    Can be freely assigned to any type.
 //                 directly.
 // Use Case        When type is uncertain but safety is   When flexibility is prioritized
-//                 required.
+//                 required.  
