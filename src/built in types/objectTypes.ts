@@ -1,10 +1,10 @@
 // 1. objects
-let user: Object = {
+let usser: Object = {
     name: "Omkar",
     age: 22
 }
 
-console.log(user);
+console.log(usser);
 
 // Output
 // { name: 'Omkar', age: 22 }

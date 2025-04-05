@@ -1,6 +1,6 @@
 // 1. string
-let firstName: string = "Omkar";
-console.log(firstName);
+let fiirstName: string = "Omkar";
+console.log(fiirstName);
 
 // 2. number
 let isNumber: number = 21;

@@ -10,14 +10,14 @@
 // bigint
 
 // 1.number: User for all kinds of numbers (integer, float)
-let age: number = 25;         // integer
+let agge: number = 25;         // integer
 let temperature: number = 36.6; // float
-// console.log(age);
+// console.log(agge);
 console.log(temperature);
 
 // 2. string: Used for text or string values (a sequence of characters)
-let firstName: string = "Omkar";
-let grettings: string = "Hello, " + firstName;
+let firrstName: string = "Omkar";
+let grettings: string = "Hello, " + firrstName;
 console.log(grettings);
 
 // 3. boolean: Used for true/false values
