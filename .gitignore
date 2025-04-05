@@ -1,0 +1,21 @@
+# Ignore compiled JS files
+dist/
+build/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore .env files
+.env
+
+# Mac junk
+.DS_Store
+
+# VS Code junk
+.vscode/
+
+# TypeScript cache
+*.tsbuildinfo

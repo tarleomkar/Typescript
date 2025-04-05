@@ -1,1 +1,1 @@
-{"root":["./index.ts"],"version":"5.8.2"}
+{"root":["./src/index.ts","./src/intro.ts","./src/variablesme.ts","./src/built in types/enumtype.ts","./src/built in types/objecttypes.ts","./src/built in types/primitive ttypes.ts","./src/built in types/tupletype.ts","./src/datatypes/array.ts","./src/datatypes/datatypes.ts","./src/datatypes/specialtypes.ts"],"errors":true,"version":"5.8.2"}
